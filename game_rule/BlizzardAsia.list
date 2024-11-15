@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,swrve.com
 #暗黑4游戏进程
+PROCESS-NAME,Battle.net.exe
+PROCESS-NAME,Battle.net Launcher.exe
 PROCESS-NAME,Diablo IV.exe
 PROCESS-NAME,Diablo IV Launcher.exe
 #暗黑4IP匹配
