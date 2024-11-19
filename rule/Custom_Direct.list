@@ -12,14 +12,6 @@ DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
-# 订阅转换
-DOMAIN-SUFFIX,apiurl.v1.mk
-# 机场域名
-DOMAIN-SUFFIX,dogsvip.site
-# 猫眼浏览器
-DOMAIN-SUFFIX,catsxp.com
-# 其他域名
-DOMAIN-SUFFIX,kit327.com
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
@@ -32,10 +24,6 @@ DOMAIN-SUFFIX,eu.cdn.blizzard.com
 IP-CIDR,137.221.64.0/24,no-resolve
 IP-CIDR,8.251.135.126/32,no-resolve
 IP-CIDR,8.251.246.126/32,no-resolve
-# 微软飞行模拟 2020 游戏内下载 CDN
-DOMAIN,pf-cdn-content-prod.azureedge.net
-# 松下智能家居
-DOMAIN-SUFFIX,psmartcloud.com
 # 暴雪战网国服相关
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,leihuo.netease.com
@@ -45,14 +33,6 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,akamaihd.net
 # FinalShell
 IP-CIDR,5.5.5.5/32,no-resolve
-# Emby 小雅 相关
-DOMAIN-SUFFIX,ddsrem.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ggbond.org
-DOMAIN-SUFFIX,nn.ci
-DOMAIN-SUFFIX,xhofe.top
-DOMAIN-SUFFIX,xiaoyakeeper.u.1996999.xyz
-DOMAIN-SUFFIX,wwwh.eu.org
 # 国内 CDN
 DOMAIN-SUFFIX,cjjd19.com
 # UniGetUI
@@ -63,15 +43,9 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,dell.com
 # Google Play
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# 中国石油支付宝小程序
-DOMAIN-SUFFIX,95504test.com
 # 嵌入式相关
 DOMAIN-SUFFIX,jlc.com
 DOMAIN-SUFFIX,jlcpcb.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,oshwhub.com
-# 电信测速
-DOMAIN-SUFFIX,gz.10000gd.tech
-# 港华燃气
-DOMAIN-SUFFIX,towngasvcc.com
